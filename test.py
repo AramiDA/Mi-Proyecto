@@ -9,5 +9,5 @@ def saludar(nombre):
 
 # Punto de entrada principal
 if __name__ == "__main__":
-    # Nombre
+    # Llamada a la función de saludo
     print(saludar("Arami"))
